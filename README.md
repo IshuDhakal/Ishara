@@ -103,26 +103,32 @@ Year 2011: In the year 2011, IBM's Watson won jeopardy, a quiz show, where it ha
 
 Foundations of AI:
 
- Philosophy:
+1. Philosophy:
 AI philosophy is concerned with questions related to the relationship between humans and machines, including questions about the moral and legal status of machines, and the potential for AI to enhance or replace human abilities in various domains. It is concerned with understanding the ethical and social implications of AI, as well as exploring the possibility of creating intelligent machines that can think and reason like humans.
-Economics:
+
+2. Economics:
 AI economics is a subfield of economics that focuses on the economic implications of artificial intelligence (AI). It is concerned with understanding how AI is likely to affect various economic sectors, as well as the broader economic implications of AI for society as a whole.
-One of the key areas of focus in AI economics is the potential impact of AI on the labor market. Another important area of research in AI economics is the potential impact of AI on productivity and economic growth. 
-AI economics also examines the impact of
- AI on economic inequality, as well as the ethical and regulatory challenges associated with the development and deployment of AI systems in various economic sectors.
-Psychology:
+One of the key areas of focus in AI economics is the potential impact of AI on the labor market. Another important area of research in AI economics is the potential impact of AI on productivity and economic growth. AI economics also examines the impact of AI on economic inequality, as well as the ethical and regulatory challenges associated with the development and deployment of AI systems in various economic sectors.
+
+3. Psychology:
 AI psychology is a subfield of psychology that focuses on the development and application of artificial intelligence (AI) to understanding human behavior and cognition. It is concerned with creating computational models of human cognition and behavior that can be used to better understand and predict human behavior, as well as to develop more effective interventions for a range of psychological disorders.
-Sociology: 
+
+4. Sociology: 
 Artificial intelligence has significant implications for the field of sociology. It can be used to analyze large amounts of social data, such as social media and online behavior, to identify patterns and trends in human behavior and social interactions. AI can also be used to model and simulate complex social systems, such as economic and political systems, to better understand their dynamics and inform policy decisions.
-Linguistics:
+
+5. Linguistics:
 AI has numerous applications in linguistics, including natural language processing, machine translation, and speech recognition. AI can be used to develop algorithms that can recognize and interpret human language, which has implications for fields such as language education, communication, and healthcare.
-Neuroscience:
+
+6. Neuroscience:
 AI has the potential to greatly enhance our understanding of the brain and how it functions. It can be used to analyze and interpret brain imaging data, to develop models of brain function and neural networks, and to develop new treatments for neurological and psychiatric disorders.
- Mathematics:
+
+ 7. Mathematics:
 AI has numerous applications in mathematics, including in the development of algorithms for solving complex equations and modeling complex systems. AI can also be used to analyze large data sets and identify patterns and trends in mathematical data.
- Computer Science:
+
+ 8. Computer Science:
 AI is closely intertwined with computer science, as it involves the development of algorithms and computational models that can simulate human thinking and decision-making processes. AI is used in a wide range of computer science applications, from machine learning and natural language processing to robotics and computer vision.
- Control Theory
+
+9. Control Theory
 AI can be used in control theory to develop algorithms for controlling complex systems, such as autonomous vehicles and industrial processes. AI-based control systems can adapt and learn over time, allowing for more efficient and effective control of complex systems.
 
 Applications of AI:
